@@ -1,0 +1,19 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "nock_enough_arrows:torch_arrow"
+    }
+  ],
+  "results": [
+    {
+      "item": "nock_enough_arrows:soul_torch_arrow"
+    }
+  ],
+  "conditions": [
+    {
+      "modid": "create",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}
