@@ -10,7 +10,8 @@
   ],
   "results": [
     {
-      "item": "nock_enough_arrows:party_arrow"
+      "item": "nock_enough_arrows:party_arrow",
+      "count": 2
     }
   ],
   "conditions": [
