@@ -10,7 +10,8 @@
   ],
   "results": [
     {
-      "item": "nock_enough_arrows:prismarine_arrow"
+      "item": "nock_enough_arrows:prismarine_arrow",
+      "count": 3
     }
   ],
   "conditions": [
