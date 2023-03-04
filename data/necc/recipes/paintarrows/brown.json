@@ -1,0 +1,26 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "nock_enough_arrows:paint_arrow"
+    },
+    {
+      "item": "minecraft:brown_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "nock_enough_arrows:paint_arrow",
+      "nbt": {
+        "Color": 12
+      },
+      "count": 1
+    }
+  ],
+  "conditions": [
+    {
+      "modid": "create",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

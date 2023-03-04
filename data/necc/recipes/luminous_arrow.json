@@ -1,0 +1,23 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:glow_ink_sac"
+    }
+  ],
+  "results": [
+    {
+      "item": "nock_enough_arrows:luminous_arrow",
+      "count": 3
+    }
+  ],
+  "conditions": [
+    {
+      "modid": "create",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}
